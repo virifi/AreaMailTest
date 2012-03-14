@@ -1,0 +1,8 @@
+エリアメールテスト用アプリです。
+
+$ANDROID_SOURCE_ROOT/packages/apps/AreaMailTest
+あたりに配置して、source envsetup.shとlunchを実行後
+mmm $ANDROID_SOURCE_ROOT/apps/AreaMailTest
+と実行すれば
+$ANDROID_SOURCE_ROOT/out/target/product/maguro/system/app/AreaMailTest.apk
+にアプリが生成されます。

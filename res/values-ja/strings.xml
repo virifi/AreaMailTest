@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AreaMailTestActivity!</string>
+    <string name="app_name">エリアメールテストアプリ</string>
+    <string name="test_button1">緊急地震速報を発令</string>
+    <string name="test_button2">緊急地震速報の発令をキャンセル</string>
+    <string name="area_mail_description">このアプリは緊急地震速報を擬似的に発生させ、エリアメールアプリをテストするものです。音を鳴らないように設定していてもアラームが鳴りますのでご注意ください。</string>
+
+</resources>

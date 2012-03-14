@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AreaMailTestActivity!</string>
+    <string name="app_name">AreaMailTest</string>
+    <string name="test_button1">Normal</string>
+    <string name="test_button2">Cancel</string>
+    <string name="area_mail_description">This app sends test area mails.</string>
+
+</resources>
