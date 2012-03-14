@@ -6,3 +6,9 @@ mmm $ANDROID_SOURCE_ROOT/apps/AreaMailTest
 と実行すれば
 $ANDROID_SOURCE_ROOT/out/target/product/maguro/system/app/AreaMailTest.apk
 にアプリが生成されます。
+
+エリアメールアプリも同様に
+mmm $ANDROID_SOURCE_ROOT/apps/CellBroadcastReceiver
+と実行すれば
+$ANDROID_SOURCE_ROOT/out/target/product/maguro/system/app/CellBroadcastReceiver.apk
+にアプリが生成されます。
